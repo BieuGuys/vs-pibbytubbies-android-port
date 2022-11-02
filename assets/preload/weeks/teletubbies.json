@@ -1,0 +1,32 @@
+{
+	"storyName": "t3l3t4bbie2 c0m3 to pla7",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "land",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"teletubbies",
+			"po",
+			[
+				175,
+				40,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "teletubbies"
+}
