@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				1021
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "possyandloli up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				673,
+				1056
+			],
+			"anim": "singDOWN",
+			"fps": 28,
+			"name": "possyandloli down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				466,
+				905
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "possyandloli idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				478,
+				930
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "possyandloli left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				570,
+				853
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "possyandloli right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/possyandloli",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "poandlala",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-510,
+		-470
+	],
+	"sing_duration": 4.1,
+	"scale": 0.7
+}

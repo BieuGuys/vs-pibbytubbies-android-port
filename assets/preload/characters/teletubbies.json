@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				326,
+				325
+			],
+			"anim": "singDOWN",
+			"fps": 28,
+			"name": "teletubbies down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				328,
+				550
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "teletubbies up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				318,
+				365
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "teletubbies idle"
+		},
+		{
+			"offsets": [
+				330,
+				359
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "teletubbies left"
+		},
+		{
+			"offsets": [
+				332,
+				373
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "teletubbies right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teletubbies",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "teletubbies",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-340,
+		-490
+	],
+	"sing_duration": 4.1,
+	"scale": 1.1
+}

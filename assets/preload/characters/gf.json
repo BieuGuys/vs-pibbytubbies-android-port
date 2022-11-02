@@ -196,13 +196,13 @@
 	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
 		0,
-		77
-	],
-	"camera_position": [
 		0,
 		0
+	],
+	"camera_position": [
+		-120,
+		250
 	],
 	"sing_duration": 4,
 	"scale": 1
