@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="possyandloli.png"><SubTexture name="possyandloli down0000" x="0" y="0" width="1654" height="1867" frameX="-224" frameY="0" frameWidth="2040" frameHeight="1875" />
+<SubTexture name="possyandloli down0001" x="1654" y="0" width="1730" height="1865" frameX="-239" frameY="-2" frameWidth="2040" frameHeight="1875" />
+<SubTexture name="possyandloli down0002" x="3384" y="0" width="1644" height="1857" frameX="-234" frameY="-10" frameWidth="2040" frameHeight="1875" />
+<SubTexture name="possyandloli down0003" x="0" y="1867" width="1620" height="1814" frameX="-258" frameY="-53" frameWidth="2040" frameHeight="1875" />
+<SubTexture name="possyandloli down0004" x="0" y="3681" width="1878" height="1760" frameX="0" frameY="-114" frameWidth="2040" frameHeight="1875" />
+<SubTexture name="possyandloli down0005" x="1878" y="3681" width="1701" height="1734" frameX="-177" frameY="-133" frameWidth="2040" frameHeight="1875" />
+<SubTexture name="possyandloli down0006" x="3579" y="3681" width="2008" height="1728" frameX="-31" frameY="-139" frameWidth="2040" frameHeight="1875" />
+<SubTexture name="possyandloli idle0000" x="0" y="10161" width="1567" height="1255" frameX="-16" frameY="-341" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0001" x="1567" y="10161" width="1590" height="1249" frameX="-16" frameY="-338" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0002" x="10247" y="3928" width="1548" height="1256" frameX="-28" frameY="-331" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0003" x="10247" y="2633" width="1540" height="1295" frameX="-27" frameY="-319" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0004" x="10247" y="0" width="1564" height="1319" frameX="-3" frameY="-301" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0005" x="10247" y="1319" width="1492" height="1314" frameX="-38" frameY="-275" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0006" x="7193" y="8663" width="1495" height="1351" frameX="0" frameY="-238" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0007" x="5837" y="8663" width="1356" height="1449" frameX="-36" frameY="-142" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0008" x="3928" y="7080" width="1250" height="1526" frameX="-34" frameY="-61" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0009" x="1279" y="7080" width="1304" height="1558" frameX="-38" frameY="-36" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0010" x="7713" y="4762" width="1231" height="1579" frameX="-36" frameY="-21" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0011" x="6406" y="3282" width="1228" height="1594" frameX="-38" frameY="-11" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0012" x="0" y="7080" width="1279" height="1583" frameX="-37" frameY="-4" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0013" x="7713" y="1588" width="1251" height="1587" frameX="-38" frameY="-1" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli idle0014" x="7713" y="3175" width="1223" height="1587" frameX="-38" frameY="0" frameWidth="1607" frameHeight="1620" />
+<SubTexture name="possyandloli left0000" x="5178" y="7080" width="1840" height="1510" frameX="0" frameY="-153" frameWidth="1840" frameHeight="1664" />
+<SubTexture name="possyandloli left0001" x="0" y="8663" width="1822" height="1498" frameX="-10" frameY="-145" frameWidth="1840" frameHeight="1664" />
+<SubTexture name="possyandloli left0002" x="7018" y="7080" width="1779" height="1510" frameX="-10" frameY="-120" frameWidth="1840" frameHeight="1664" />
+<SubTexture name="possyandloli left0003" x="4807" y="5441" width="1669" height="1604" frameX="0" frameY="-60" frameWidth="1840" frameHeight="1664" />
+<SubTexture name="possyandloli left0004" x="1547" y="5441" width="1621" height="1636" frameX="-10" frameY="-25" frameWidth="1840" frameHeight="1664" />
+<SubTexture name="possyandloli left0005" x="3168" y="5441" width="1639" height="1607" frameX="-10" frameY="-23" frameWidth="1840" frameHeight="1664" />
+<SubTexture name="possyandloli left0006" x="0" y="5441" width="1547" height="1639" frameX="-10" frameY="-1" frameWidth="1840" frameHeight="1664" />
+<SubTexture name="possyandloli right0000" x="4488" y="8663" width="1349" height="1480" frameX="-32" frameY="-54" frameWidth="1461" frameHeight="1592" />
+<SubTexture name="possyandloli right0001" x="1822" y="8663" width="1342" height="1497" frameX="0" frameY="-54" frameWidth="1461" frameHeight="1592" />
+<SubTexture name="possyandloli right0002" x="8985" y="0" width="1262" height="1506" frameX="-110" frameY="-40" frameWidth="1461" frameHeight="1592" />
+<SubTexture name="possyandloli right0003" x="7713" y="0" width="1272" height="1588" frameX="-76" frameY="0" frameWidth="1461" frameHeight="1592" />
+<SubTexture name="possyandloli right0004" x="2583" y="7080" width="1345" height="1553" frameX="-99" frameY="-38" frameWidth="1461" frameHeight="1592" />
+<SubTexture name="possyandloli right0005" x="3164" y="8663" width="1324" height="1483" frameX="-137" frameY="-51" frameWidth="1461" frameHeight="1592" />
+<SubTexture name="possyandloli up0000" x="1620" y="1867" width="1357" height="1769" frameX="-67" frameY="0" frameWidth="1458" frameHeight="1804" />
+<SubTexture name="possyandloli up0001" x="2977" y="1867" width="1427" height="1767" frameX="-30" frameY="-6" frameWidth="1458" frameHeight="1804" />
+<SubTexture name="possyandloli up0002" x="5028" y="0" width="1378" height="1762" frameX="-38" frameY="-29" frameWidth="1458" frameHeight="1804" />
+<SubTexture name="possyandloli up0003" x="5028" y="1762" width="1273" height="1681" frameX="-59" frameY="-116" frameWidth="1458" frameHeight="1804" />
+<SubTexture name="possyandloli up0004" x="6406" y="0" width="1307" height="1665" frameX="0" frameY="-139" frameWidth="1458" frameHeight="1804" />
+<SubTexture name="possyandloli up0005" x="6406" y="1665" width="1251" height="1617" frameX="-64" frameY="-145" frameWidth="1458" frameHeight="1804" />
+</TextureAtlas>
